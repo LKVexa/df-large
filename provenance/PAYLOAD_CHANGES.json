@@ -1,0 +1,51 @@
+{
+  "original_tree_sha256": "e3f53aa6551c9dd58277d5d57f769992fb244690de94f264f0f914985a279f46",
+  "release_tree_sha256": "a5fdefb8483d5a7ae094cfa89844eaf7b610c5cb9a5d3573782387a3cac0e92a",
+  "changes": [
+    {
+      "path": "Makefile",
+      "original_sha256": "a389a1f3564cf194097c24e79d53e1c8ef636f9f7a9d350e5b9d24c3331a9e81",
+      "release_sha256": "abf729ef7dc5efe868d4e8f567d207396139a429b23936b430bfbcf7893d380f"
+    },
+    {
+      "path": "RELEASE_CONTENTS.sha256",
+      "original_sha256": "13f532332155a554b43b60ad6286369c456cb95820c67bdef7f3fe675a74f578",
+      "release_sha256": "061340b89212d22b7035a1bd3c10f615ff02ec0adbe829638d834fd2e64b2a35"
+    },
+    {
+      "path": "adapters/br_file_adapter.c",
+      "original_sha256": "de17658ce4cb6a2d0d8802500b0088d6fe44f9aa8874df02da55336b7c359119",
+      "release_sha256": "7a7441521d0a7e3d8049fe8a4dda560a2251781e3a9cde4671440ebba9fd77cc"
+    },
+    {
+      "path": "host/brctl.c",
+      "original_sha256": "91f4477fb0b2a9918e6bda31b7096f80d79009d19aa7b8f122e45a22d00ded3d",
+      "release_sha256": "f3333b7ccac3bd26add8e261bab08da8e3dca53d8180ad0c3cb561280b329ab3"
+    },
+    {
+      "path": "tests/test_430_semantic.py",
+      "original_sha256": "9156e1a6b8438816d564b2aa4997c332a3829961f5a4c2f646738aeb0901e1b3",
+      "release_sha256": "d350e89f4333e11c123f96bb25894950ec44d8fca225e441824290ffe8be958c"
+    },
+    {
+      "path": "tests/test_460_toolchain.py",
+      "original_sha256": "b0f397c8f6be76c78a63d3644f971deba9c3fa9dabdd727e83e4ca1a9a1a7564",
+      "release_sha256": "f337df867583d340285558f29f29539d9ce1f453031c8b83439c1160e713a7d9"
+    },
+    {
+      "path": "tests/test_470_static.py",
+      "original_sha256": "c7b436be2e37445cef692d5f0f2ce8e485e1cc30d353ff5c39afd747519bcb32",
+      "release_sha256": "4d7880ea0929af190575d00fc832fcf2047f003f60c798aa2634c31d4eec4db6"
+    },
+    {
+      "path": "tools/lctl430.py",
+      "original_sha256": "cfd4dc7a3dc880f7757144261806f7d366eb32e91b70b65342b2ebaa66ec9e63",
+      "release_sha256": "bed8cc39302336ee80ee009cc77f90715b86589e9b1cd51b0c7792159fa7ca09"
+    },
+    {
+      "path": "tools/sanitize470.sh",
+      "original_sha256": "f101c484e9ec0cd92ee39cf8825c4b14f0413970d60860465a70e9e8560c1644",
+      "release_sha256": "64f379153bef55c0d0910e2e478b944a4048a8ba52fc2b9da366dd0cefc4e070"
+    }
+  ]
+}
